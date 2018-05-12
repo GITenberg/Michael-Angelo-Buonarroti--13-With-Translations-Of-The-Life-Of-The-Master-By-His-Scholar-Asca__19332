@@ -1,0 +1,42 @@
+_repo: Michael-Angelo-Buonarroti--13-With-Translations-Of-The-Life-Of-The-Master-By-His-Scholar-Asca__19332
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Condivi, Ascanio
+    alias: Condivi, Asconio
+    gutenberg_agent_id: '37761'
+    url: http://www.gutenberg.org/2009/agents/37761
+  - agent_name: Hollanda, Francisco de
+    alias: Ollanda, Francisco d'
+    birthdate: 1517
+    deathdate: 1584
+    gutenberg_agent_id: '37760'
+    url: http://www.gutenberg.org/2009/agents/37760
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holroyd, Charles, Sir
+    birthdate: 1861
+    deathdate: 1917
+    gutenberg_agent_id: '8599'
+    url: http://www.gutenberg.org/2009/agents/8599
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Holroyd
+description: ''
+gutenberg_issued: '2006-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19332'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Artists -- Italy -- Biography'
+- !lcc 'N'
+- !lcsh 'Michelangelo Buonarroti, 1475-1564'
+title: "Michael Angelo Buonarroti\r\nWith Translations Of The Life Of The Master By\
+  \ His Scholar, Ascanio Condivi, And Three Dialogues From The Portugese By Francisco\
+  \ d'Ollanda"
+url: http://www.gutenberg.org/ebooks/19332
